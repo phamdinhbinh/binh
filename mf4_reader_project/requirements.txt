@@ -1,0 +1,10 @@
+numpy
+pandas
+pyqtgraph
+openpyxl
+PySide6
+asammdf
+python-can
+cantools
+xlrd
+python-calamine
